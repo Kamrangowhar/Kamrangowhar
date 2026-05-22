@@ -38,9 +38,9 @@
 
 <div align="center">
 
-![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Kamran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamrangowhar&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamrangowhar&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -83,7 +83,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kamrangowhar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://inlinkedin.com/kamran1114)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kamran1114)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k.g.bangroo333@gmail.com)
 
 </div>
@@ -94,6 +96,6 @@
 
 ### ✨ "Turning Data into Insights" ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Kamrangowhar&label=Profile%20Views&color=0e75b6&style=flat)
 
 </div>
